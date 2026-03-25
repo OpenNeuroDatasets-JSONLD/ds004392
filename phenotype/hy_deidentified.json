@@ -1,6 +1,13 @@
 {
     "HY": {
         "Description": "Hoehn and Yahr stage of the participant",
-        "Levels": ["based on scoring criteria"]
+        "Levels": {
+            "1": "Unilateral involvement only",
+            "1.5": "Unilateral and axial involvement",
+            "2": "Bilateral involvement without impairment of balance",
+            "2.5": "Mild bilateral involvement with recovery on retropulsion (pull) test",
+            "3": "Mild to moderate bilateral involvement, some postural instability but physically independent",
+            "4": "Severe disability, still able to walk and to stand unassisted",
+            "5": "Wheelchair bound or bedridden unless aided"
     }
 }			
