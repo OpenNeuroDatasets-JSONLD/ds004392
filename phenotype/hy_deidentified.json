@@ -1,0 +1,6 @@
+{
+    "HY": {
+        "Description": "Hoehn and Yahr stage of the participant",
+        "Levels": {0, 1, 1.5, 2, 2.5, 3, 3, 4, 5}
+    }
+}			
